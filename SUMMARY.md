@@ -11,5 +11,5 @@
 ## xEon
 
 * [xEon setup](xeon/xeon-setup.md)
-* [FAQ](xeon/faq.md)
+* [How to add bot to group](xeon/faq.md)
 

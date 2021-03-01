@@ -1,8 +1,11 @@
-# FAQ
+# How to add bot to group
 
-## How do I add the bot to my group
+Send a message with this format in \#request-bot-here
 
-Look at \#request-bot in our discord server
+```text
+Discord server invite: 
+Roblox group link:
+```
 
 
 
