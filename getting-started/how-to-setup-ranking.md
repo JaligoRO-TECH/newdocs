@@ -4,7 +4,7 @@ description: >-
   roblox ranking!
 ---
 
-# How to setup ranking
+# How to setup ranking?
 
 1: Make a fresh roblox account. \(You should know how to do this\)  
   
